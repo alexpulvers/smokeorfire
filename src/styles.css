@@ -1,0 +1,14 @@
+
+#results {
+  position:fixed;
+  top: 80%;
+  left: 40%;
+  right: 40%;
+  text-align: center;
+  color: blue;
+}
+
+#history {
+  top: 10%;
+  left: 50%;
+}
